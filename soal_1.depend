@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1529941604 source:d:\animeart\soal_1\fungsi.c
+	"header.h"
+
+1529942574 d:\animeart\soal_1\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1529942574 source:d:\animeart\soal_1\main.c
+	"header.h"
+
+1529943032 source:f:\soal_1\fungsi.c
+	"header.h"
+
+1529977876 f:\soal_1\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1529942576 source:f:\soal_1\main.c
+	"header.h"
+
+1529943032 source:e:\kuliah\alpro\soal_1\fungsi.c
+	"header.h"
+
+1529977876 e:\kuliah\alpro\soal_1\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1529942576 source:e:\kuliah\alpro\soal_1\main.c
+	"header.h"
+
